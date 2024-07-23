@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pavan.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Upasthiti the Wifi based attendance system 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Upasthiti is a wifi based attendance system. It is a web application that uses the wifi signals of the devices to mark the attendance of the students. It is a simple and efficient way to mark the attendance of the students.",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7210850861697142784/",
   },
   {
     title: "Web Development for Beginners",
@@ -43,9 +43,9 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "YouTube Clone",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "A YouTube clone built with React, Redux, and Firebase. It allows users to watch videos, search for videos, and upload videos.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
